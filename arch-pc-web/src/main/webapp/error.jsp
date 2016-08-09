@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>404</title>
+</head>
+<body>
+<div>
+    404
+</div>
+</body>
+</html>
