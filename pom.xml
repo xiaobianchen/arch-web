@@ -207,12 +207,13 @@
 
     <distributionManagement>
         <repository>
-            <id>bingkun-internal-releases</id>
-            <url>http://arch1:8081/nexus/content/repositories/releases/</url>
+            <id>arch-internal-releases</id>
+            <url>http://192.168.66.77:8081/nexus/content/repositories/releases/</url>
         </repository>
+
         <snapshotRepository>
-            <id>bingkun-internal-snapshots</id>
-            <url>http://arch1:8081/nexus/content/repositories/snapshots/</url>
+            <id>arch-internal-snapshots</id>
+            <url>http://192.168.66.77:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 

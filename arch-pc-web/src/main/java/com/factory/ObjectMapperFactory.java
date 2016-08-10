@@ -1,12 +1,13 @@
-package com.bingkun.haoduoke.weixin.pc.factory;
+package com.factory;
+
+import com.fasterxml.jackson.databind.DeserializationFeature;
 
 
 import com.fasterxml.jackson.core.JsonParser;
-import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * Created by chenxiaobian on 16/7/1.
+ * Created by chenxiaobian on 16/7/1
  */
 public class ObjectMapperFactory {
 

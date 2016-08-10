@@ -1,5 +1,4 @@
-package com.bingkun.haoduoke.weixin.pc.resolver;
-
+package com.resolver;
 
 import org.omg.CORBA.portable.ApplicationException;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,7 @@
-package com.arch.pc.controller;
+package com.controller;
 
-import com.arch.pc.dto.ResultMap;
+
+import com.dto.ResultMap;
 
 /**
  * Created by chenxiaobian on 16/7/1.

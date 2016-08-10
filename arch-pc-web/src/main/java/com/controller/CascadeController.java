@@ -1,4 +1,4 @@
-package com.arch.pc.controller;
+package com.controller;
 
 import com.arch.biz.context.ContextContainer;
 import com.arch.biz.exception.ApplicationException;
